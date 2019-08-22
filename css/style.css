@@ -1,3 +1,7 @@
+body {
+  background: url(../images/handmadepaper.png);
+}
+
 #social {
   position: fixed;
   top: 200px;
